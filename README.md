@@ -1,4 +1,4 @@
-# Push Notifications codelab
+# Used Push Notifications from codelab
 
 Code for the Web Fundamentals [Push Notifications codelab](https://developers.google.com/web/fundamentals/getting-started/push-notifications/?hl=en).
 
